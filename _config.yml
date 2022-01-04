@@ -8,8 +8,7 @@ instagram_username: digiscope.be
 facebook_username: digiscope.be
 # twitter_username: jekyllrb
 # github_username:  jekyll
-site:
-  google_analytics: "G-GT1SFY9KLM"
+google_analytics: "G-GT1SFY9KLM"
 
 # Build settings
 theme: minima
