@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+<img src="images/digiscope-banner.png" alt="DigiScope banner" />
+
+Ce site web est actuellement en construction.
