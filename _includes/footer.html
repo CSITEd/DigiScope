@@ -1,35 +1,70 @@
+<style>
+  .footer-col-1 {
+    width: calc(30% - (30px / 2));
+  }
+  .footer-col-3 {
+    width: calc(70% - (30px / 2));
+  }
+
+  footer div#logos {
+    text-align: center;
+  }
+
+  footer div#logos ul {
+    list-style-type: none;
+  }
+
+  footer div#logos li {
+    display: inline-block;
+  }
+
+  footer div#logos li:not(:last-child) {
+    margin-right: 50px;
+  }
+</style>
+
 <footer class="site-footer h-card">
-    <data class="u-url" href="{{ "/" | relative_url }}"></data>
-  
-    <div class="wrapper">
-  
-      <h2 class="footer-heading">{{ site.title | escape }}</h2>
-  
-      <div class="footer-col-wrapper">
-        <div class="footer-col footer-col-1">
-          <ul class="contact-list">
-            <li class="p-name">
-              {%- if site.author -%}
-                {{ site.author | escape }}
-              {%- else -%}
-                {{ site.title | escape }}
-              {%- endif -%}
-              </li>
-              {%- if site.email -%}
-              <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-              {%- endif -%}
-          </ul>
-        </div>
-  
-        <div class="footer-col footer-col-2">
-          {%- include social.html -%}
-        </div>
-  
-        <div class="footer-col footer-col-3">
-          <p>Avec le soutien de la<br><img src="images/logo-fwb.jpg" alt="Fédération Wallonie-Bruxelles" width="200" /></p>
-        </div>
+  <data class="u-url" href="{{ "/" | relative_url }}"></data>
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">{{ site.title | escape }}</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li class="p-name">E-mail de contact</li>
+          <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        </ul>
+
+        <ul class="contact-list">
+          <li class="p-name">Réseaux sociaux</li>
+          <li>
+            {%- include social.html -%}
+          </li>
+        </ul>
       </div>
-  
+
+      <div class="footer-col footer-col-3">
+        <p>Ce site internet a été créé et est maintenu avec le soutien financier de l'Union Européenne, par l'intermédiaire de la Fédération Wallonie-Bruxelles dans le cadre du projet <a href="https://www.mindchangers.eu" target="_blank">Mindchangers</a> – des régions et leurs jeunesses s'engagent pour la planète et ses habitant(e)s. Son contenu relève de la seule responsabilité de la Maison du Développement Durable ASBL, de la Ville d'Ottignies-Louvain-la-Neuve et de la Computer Science and IT in Education ASBL et ne reflète pas nécessairement les vues de l'Union Européenne.</p>
+      </div>
     </div>
+
+    <div id="logos">
+      <ul>
+        <li><img src="images/mindchangers-logo.jpg" alt="Mindchangers" width="100"></li>
+        <li><img src="images/mdd-logo.jpg" alt="Maison du Développement Durable ASBL" width="60"></li>
+        <li><img src="images/olln-logo.png" alt="Ville d'Ottignies-Louvain-la-Neuve" width="100"></li>
+        <li><img src="images/csited-logo.png" alt="Computer Science and IT in Education ASBL" width="120"></li>
+      </ul>
   
-  </footer>
+      <ul>
+        <li><img src="images/UE-logo.jpg" alt="Mindchangers" width="180"></li>
+        <li><img src="images/DEAR-UE-logo.png" alt="DEAR" width="180"></li>
+        <li><img src="images/logo-fwb.jpg" alt="Fédération Wallonie-Bruxelles" width="200"></li>
+        </ul>
+    </div>
+
+  </div>
+
+</footer>
