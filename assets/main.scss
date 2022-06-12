@@ -1,0 +1,12 @@
+---
+---
+
+$content-width:    1000px;
+$on-palm:          100px;
+$on-laptop:        1000px;
+
+@import "minima";
+
+.page-content p {
+    text-align: justify;
+}
