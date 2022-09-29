@@ -10,5 +10,11 @@ Le projet DigiScope a pour objectif d'amener les jeunes de 15 à 18 ans à **se 
   </div>
   <div style="width: 350px;">
     <b>Actualités</b>
+
+    <div style="border: 1px solid #aaa; padding: 10px; margin-top: 10px;">
+      <p>Lundi 3 octobre 2022</p>
+      <p><i>Lancement du challenge DigiScope 2022 !</i></p>
+      <p style="text-align: right"><a href="challenge">Participer au challenge</a></p>
+    </div>
   </div>
 </div>
