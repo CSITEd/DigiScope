@@ -21,4 +21,4 @@ De plus, tous les finalistes repartiront avec un chèque cadeau durable.
 
 ## Participer
 
-Revenez ici dès ce lundi 3 octobre 2022 pour pouvoir vous inscrire et accéder à la plateforme de la première phase en ligne.
+Pour vous inscrire et participer au challenge, rendez-vous sur la page suivante : [https://challenge.digi-scope.be](https://challenge.digi-scope.be).
