@@ -7,7 +7,7 @@ Le challenge DigiScope a pour objectif de sensibiliser et faire réfléchir les 
 
 D'un côté, l'outil numérique est formidable et ouvre de nombreuses possibilités nouvelles, mais son usage n'est pas sans impacts sur **l'environnement, le climat, la santé, le bien-être, la biodiversité**, etc. L'outil numérique n'est pas la solution miracle à tous les problèmes et il convient de l'utiliser de manière responsable et en ayant conscience des impacts associés à son usage.
 
-<img src="images/challenge-digiscope-2022-banner.png" alt="Challenge DigiScope 2022 banner" style="width: 100%" />
+<img src="../images/challenge-digiscope-2022-banner.png" alt="Challenge DigiScope 2022 banner" style="width: 100%" />
 
 Pour sensibiliser la population, **des jeunes réunis en un Jury** vous proposent de participer à ce challenge DigiScope constitué de questions à choix multiples qu'ils et elles ont sélectionné pour vous !
 
