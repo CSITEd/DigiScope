@@ -12,6 +12,12 @@ Le projet DigiScope a pour objectif d'amener les jeunes de 15 à 18 ans à **se 
     <b>Actualités</b>
 
     <div style="border: 1px solid #aaa; padding: 10px; margin-top: 10px;">
+      <p>Jeudi 16 mars 2023</p>
+      <p><i>Toute première conférence co-organisée avec DigiScope « Numérique, environnement et démocratie, quel monde pour demain ? »</i></p>
+      <p style="text-align: right"><a href="conferences/numerique-environnement-democratie-quel-monde-pour-demain-2023">Détails et inscription à la conférence</a></p>
+    </div>
+
+    <div style="border: 1px solid #aaa; padding: 10px; margin-top: 10px;">
       <p>Lundi 3 octobre 2022</p>
       <p><i>Lancement du challenge DigiScope 2022 !</i></p>
       <p style="text-align: right"><a href="challenge">Participer au challenge</a></p>
