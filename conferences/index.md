@@ -11,7 +11,7 @@ Les conférences sont généralement organisées avec d'autres partenaires et pe
 
 ## Prochaines conférences
 
-- [« Numérique, environnement et démocratie, quel monde pour demain ? »](numerique-environnement-democratie-quel-monde-pour-demain-2023), le jeudi 16 mars 2023.
+- [« Numérique, environnement et démocratie, quel monde pour demain ? »](numerique-environnement-democratie-quel-monde-pour-demain-2023), le jeudi 20 avril 2023.
 
 ## Conférences passées
 
